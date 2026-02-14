@@ -1,0 +1,22 @@
+p {
+  color: blue;
+}
+h1 {
+  color: red;
+}
+p {
+  color: purple;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+div {
+  border: 2px solid black;
+  margin: 20px;
+  padding: 15px;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
